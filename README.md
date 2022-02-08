@@ -1,13 +1,23 @@
-# Database
+# Awesome Database
 
 Learning materials about databases
 
-## Contents
+## Categories
 
-- Mysql
+### Key-Value
 
 - Redis
 
-- Elasticsearch
+### Relational
+
+- [Mysql](./mysql)
+
+### Document
+
+- ElasticSearch
 
 - MongoDB
+
+### Wide Columnar Store
+
+- [Cassandra](./cassandra)
